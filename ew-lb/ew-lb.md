@@ -1,6 +1,5 @@
 # How consul eliminates the need for east-west LB #
 
-
 LB - A
    - B
    - C
